@@ -35,7 +35,11 @@
   - Ph.D. Candidate
   - Reinforcement Learning, Transfer Learning, Sequential Decision Making
   - https://www.comp.nus.edu.sg/~anarayan/
-  
+
+- Evangelos Sigalas
+  - Ph.D. Candidate, 2019
+  - Computational Neuroscience, Deep Learning, Causal Inference
+
 - [Name]
 - [Position, Year]
 - [Research Interest]
