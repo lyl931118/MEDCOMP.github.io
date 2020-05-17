@@ -20,8 +20,8 @@
 - [Link to Personal page]
 
 - Xu Xinyi
-- Research Assistant, 2020
-- Reinforcement Learning, Autonomous Agents, Multi-agent Systems
+  - Research Assistant, 2020
+  - Reinforcement Learning, Autonomous Agents, Multi-agent Systems
 
 - Huang Tiancheng
   - Research Assistant, 2019
