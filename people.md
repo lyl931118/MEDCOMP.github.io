@@ -48,6 +48,10 @@
 - Evangelos Sigalas
   - Ph.D. Candidate, 2019
   - Computational Neuroscience, Deep Learning, Causal Inference
+  
+- Vo Thanh Vinh
+  - Ph.D. Candidate, 2017
+  - Causal Inference, Point Processes
 
 - [Name]
 - [Position, Year]
