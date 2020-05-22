@@ -2,6 +2,9 @@ theme: jekyll-theme-minimal
 title: [Medical Computing Lab]
 description: [The homepage of Medical Computing Lab of School of Computing, NUS.]
 
+github:
+  is_project_page: false
+
 plugins:
   - jekyll-relative-links
 relative_links:
