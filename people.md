@@ -19,6 +19,11 @@
 - [Research Interest]
 - [Link to Personal page]
 
+- Wei Pengfei
+  - Research Fellow, 2020
+  - Transfer Learning, Domain Adaptation, Reinforcement Learning
+  - https://sites.google.com/site/weipengfeishomepage/
+
 - Xu Xinyi
   - Research Assistant, 2020
   - Reinforcement Learning, Autonomous Agents, Multi-agent Systems
