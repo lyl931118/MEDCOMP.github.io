@@ -52,6 +52,10 @@
 - Vo Thanh Vinh
   - Ph.D. Candidate, 2017
   - Causal Inference, Point Processes
+  
+- Di Fu
+  - Ph.D. Student, 2019
+  - Deep Learning, Lifelong Machine Learning
 
 - [Name]
 - [Position, Year]
