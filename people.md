@@ -20,7 +20,7 @@
 - [Link to Personal page]
 
 - Wei Pengfei
-  - Research Fellow, 2020
+  - Research Fellow, 2020-present
   - Transfer Learning, Domain Adaptation, Reinforcement Learning
   - https://sites.google.com/site/weipengfeishomepage/
 
